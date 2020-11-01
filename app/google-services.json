@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "299197731510",
+    "firebase_url": "https://activ2-4bb7b.firebaseio.com",
+    "project_id": "activ2-4bb7b",
+    "storage_bucket": "activ2-4bb7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299197731510:android:53a6ed39f1af1f89430c17",
+        "android_client_info": {
+          "package_name": "com.deevrv.activ2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299197731510-21d7m6b9erklho7va4i18jq37fvvfu5u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.deevrv.activ2",
+            "certificate_hash": "bbe1c2a6247667872202fdbe7f6efae00def1296"
+          }
+        },
+        {
+          "client_id": "299197731510-515rhlenamdtkltp4cdr5djgqsba6ssd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGPVs80WB7MuaTl_ACTOVmGEdOkyYWAnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299197731510-515rhlenamdtkltp4cdr5djgqsba6ssd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
